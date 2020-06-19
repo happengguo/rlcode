@@ -1,5 +1,11 @@
 <template>
-  <canvas id="canvas" :class="rainbow.canvas" @click="handleCick"></canvas>
+  <canvas
+    id="canvas"
+    :class="rainbow.canvas"
+    @click="handleCick"
+    width="100"
+    height="40"
+  ></canvas>
 </template>
 
 <script>

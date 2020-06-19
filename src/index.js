@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import RlCanvasCode from "./components/RlCanvasCode";
 
 const components = {
